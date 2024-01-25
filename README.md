@@ -1,6 +1,8 @@
 # noteapp
 
-A new Flutter project.
+A new Flutter project 
+![Screenshot 2024-01-25 110735](https://github.com/P-mistry/NoteApp_DB/assets/75114126/b564d8a9-b2c5-424b-a82b-468a871d338d)
+oject.
 
 ## Getting Started
 
